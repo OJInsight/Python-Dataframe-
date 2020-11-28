@@ -1,1 +1,0 @@
-api_secret = 'bghjsv8h8ktswqdufj5wthhh'
